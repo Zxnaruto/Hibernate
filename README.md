@@ -4,3 +4,5 @@
 * Hibernate5.0: 这是关于Hibernate5.0的应用
 * MaToOn: 这是关于Hibernate多对一关系的应用
 * OnToOn: 这是关于Hibernate一对一关系的应用
+* MaToMa: 这是关于Hibernate多对多关系的应用
+* HibernateHQL: 这是关于Hibernate HQL的应用
